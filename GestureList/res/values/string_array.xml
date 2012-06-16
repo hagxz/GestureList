@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="names">
+        <item>Artem</item>
+        <item>Anastasia</item>
+        <item>Petr</item>
+        <item>Katerina</item>
+        <item>Roman</item>
+        <item>Slava</item>
+        <item>Valentin</item>
+        <item>Andrey</item>
+        <item>Nika</item>
+        <item>Margarita</item>
+        <item>Fedor</item>
+        <item>Den</item>
+        <item>Maksim</item>
+        <item>Anton</item>
+        <item>Dasha</item>
+        <item>Boris</item>
+        <item>Kostya</item>
+        <item>Anna</item>
+        <item>Dennis</item>
+        <item>Vadim</item>
+        <item>Olga</item>
+        <item>Sergey</item>
+        <item>Lena</item>
+        <item>Sasha</item>
+        <item>Pavel</item>
+    </string-array>
+
+</resources>
